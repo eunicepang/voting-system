@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/voting-system/static/css/main.e70ffbd1.chunk.css",
+    "main.js": "/voting-system/static/js/main.a55d58a1.chunk.js",
+    "main.js.map": "/voting-system/static/js/main.a55d58a1.chunk.js.map",
+    "runtime-main.js": "/voting-system/static/js/runtime-main.be0a0970.js",
+    "runtime-main.js.map": "/voting-system/static/js/runtime-main.be0a0970.js.map",
+    "static/js/2.bf925030.chunk.js": "/voting-system/static/js/2.bf925030.chunk.js",
+    "static/js/2.bf925030.chunk.js.map": "/voting-system/static/js/2.bf925030.chunk.js.map",
+    "index.html": "/voting-system/index.html",
+    "static/css/main.e70ffbd1.chunk.css.map": "/voting-system/static/css/main.e70ffbd1.chunk.css.map",
+    "static/js/2.bf925030.chunk.js.LICENSE.txt": "/voting-system/static/js/2.bf925030.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be0a0970.js",
+    "static/js/2.bf925030.chunk.js",
+    "static/css/main.e70ffbd1.chunk.css",
+    "static/js/main.a55d58a1.chunk.js"
+  ]
+}
