@@ -30,8 +30,12 @@
   text-align: center;
 }
 
+.candidate-container {
+  display: flex;
+}
+
 .candidate {
-  width: 31%;
+  flex-grow: 1;
   display: inline-block;
   text-align: center;
   background-color: #ACC1F2;

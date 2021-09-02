@@ -79,6 +79,7 @@ class App extends React.Component {
           <Backdrop onClick={this.closeModalHandler} />
         )}
         <h2>Candidates</h2>
+        <div className="candidate-container">
         <Candidate
           name="Jen"
           vote={this.state.voteCountJen}
@@ -92,6 +93,7 @@ class App extends React.Component {
           name="Ashley" 
           vote={this.state.voteCountAshley}
           addVote={this.addVoteAshley} />
+          </div>
         <br></br>
         <h2>Vote Record</h2>
         <Table data={this.state.voteRecord} />
